@@ -1,6 +1,6 @@
 // Create a Stripe client.
 //It is going to initialise Stripe with our client side key
-var stripe = Stripe('pk_test_7K8BGKDFSs4b6PAVJHPGX6oD');
+var stripe = Stripe('insert your stripe key here');
 
 // Create an instance of Elements.
 var elements = stripe.elements();
